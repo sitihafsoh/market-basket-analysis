@@ -46,7 +46,7 @@ The quantity of items sold follows the seasonal cycle, peaking with sheer volume
 
 ### 3. Total Unique Items Sold by Month (2009-2011)
 
-The highest product variety is required during the holiday shopping season (Dec 2009 and Nov 2010, $\sim$3,000+ unique items), confirming customer demand for a broad assortment of gifts. A strong secondary variety peak in March (2,889 unique items) suggests the start of Spring requires a diverse selection of new seasonal goods alongside high volume. Variety is lowest during the winter and summer lulls (February and July, $\sim$2,600 unique items). Notably, June 2010 had a moderate variety (2,727 unique items), supporting the finding that high June sales revenue was driven by customers selecting fewer units from a diverse, high-value assortment.
+The highest product variety is required during the holiday shopping season (Dec 2009 and Nov 2010, 3,000+ unique items), confirming customer demand for a broad assortment of gifts. A strong secondary variety peak in March (2,889 unique items) suggests the start of Spring requires a diverse selection of new seasonal goods alongside high volume. The lowest variety of items sold occurs in February 2010, totaling 2,590 unique items. Notably, June 2010 had a moderate variety (2,727 unique items), supporting the finding that high June sales revenue was driven by customers selecting fewer units from a diverse, high-value assortment.
 
 ## Strategic Market Basket Analysis (MBA) Segmentation
 
