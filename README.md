@@ -36,15 +36,15 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ## Exploratory Data Analysis (EDA)
 
-### 📈 Total Sales by Month (2009-2011)
+### 1. Total Sales by Month (2009-2011)
 
 Sales exhibit a predictable, strong seasonal cycle, peaking massively in November (Holiday preparation, $\text{£}260,713.96$)—the critical sales period. Secondary peaks consistently align with the beginning of each season (Winter, Spring, Summer kickoff). The lowest sales period is confirmed as February 2010 ($\text{£}94,705.60$), marking the slowest post-holiday lull.
 
-### 📦 Total Quantity of Items Sold by Month (2009-2011)
+### 2. Total Quantity of Items Sold by Month (2009-2011)
 
 The quantity of items sold follows the seasonal cycle, peaking with sheer volume in November 2010 (732,013 units), confirming the holiday season's focus on high unit purchases. The definitive volume slump occurs in July 2010 (358,783 units). A strong secondary peak in March (530,651 units) indicates customers stock up heavily for the Spring season. Crucially, June's revenue increase was not volume-driven; lower quantity sold than in May confirms the increase was due to a shift in the product mix toward fewer, higher-priced items.
 
-### ✨ Total Unique Items Sold by Month (2009-2011)
+### 3. Total Unique Items Sold by Month (2009-2011)
 
 The highest product variety is required during the holiday shopping season (Dec 2009 and Nov 2010, $\sim$3,000+ unique items), confirming customer demand for a broad assortment of gifts. A strong secondary variety peak in March (2,889 unique items) suggests the start of Spring requires a diverse selection of new seasonal goods alongside high volume. Variety is lowest during the winter and summer lulls (February and July, $\sim$2,600 unique items). Notably, June 2010 had a moderate variety (2,727 unique items), supporting the finding that high June sales revenue was driven by customers selecting fewer units from a diverse, high-value assortment.
 
