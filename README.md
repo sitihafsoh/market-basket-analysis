@@ -10,3 +10,18 @@ This project focuses on a Market Basket Analysis using the "Online Retail II" da
 2. How do buying patterns change across different seasons?
 3. Which products should be bundled or cross-promoted to maximize sales revenue?
 4. How can we increase the number of items a customer buys in a single transaction?
+
+## Dataset
+
+The dataset used is the "Online Retail II" from the UCI Machine Learning Repository. It contains transaction data from a UK-based online retailer between 01/12/2009 and 09/12/2011.
+
+**Variable Informations:**
+
+- `InvoiceNo`: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
+- `StockCode`: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product.
+- `Description`: Product (item) name. Nominal.
+- `Quantity`: The quantities of each product (item) per transaction. Numeric.
+- `InvoiceDate`: Invoice date and time. Numeric. The day and time when a transaction was generated.
+- `UnitPrice`: Unit price. Numeric. Product price per unit in Pound Sterling (£).
+- `CustomerID`: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer.
+- `Country`: Country name. Nominal. The name of the country where a customer resides.
